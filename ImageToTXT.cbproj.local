@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.281,=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.493,=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.681,=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,E:\My projects\C++ builder\Преобразование картинки в текст\ImageToTXT.cbproj=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,E:\My projects\C++ builder\Преобразование картинки в текст\Main.cpp=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,E:\My projects\C++ builder\Преобразование картинки в текст\Main.dfm=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.298,=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,E:\My projects\C++ builder\Преобразование картинки в текст\Main.h=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.139,E:\My projects\C++ builder\Преобразование картинки в текст\ImageToText.h=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,=C:\Users\IdeaPad\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
